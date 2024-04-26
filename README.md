@@ -1,6 +1,6 @@
 👋 Hello! I'm Mykhailo Klymchuk, a full-stack developer from Ukraine, open to new opportunities. Here's a bit about me:
 
---Passionate about development since last summer.
+-- Passionate about development since last summer.
 Started my learning journey with Epam Java summer courses and continue to improve my skills with Udemy and Coursera courses.
 Highly self-motivated with a strong desire for personal and career growth.
 Enthusiastic about learning from seasoned professionals and gaining valuable commercial experience.
