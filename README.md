@@ -6,15 +6,15 @@ I'm Mykhailo Klymchuk, a full-stack developer.
 If you are interested in me, please review my [resume](https://docs.google.com/document/d/1_SBcUe-iSSIW8XBGp6uIVg8Uont_pa_w/) 
 <br>
 <h2 align=center>Programming Languages, Frameworks & Tools</h2>
-
+<p>
   ![](https://komarev.com/ghpvc/?username=MykhailoKlymchuk&color=595CD1)
-
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,redis,python,django,php,laravel,maven,gradle,angular,react,js,ts,html,css,bootstrap,postgres,mysql,mongodb,git,github,gitlab,postman,docker,kubernetes,kafka,aws,gcp" />
   </a>
 </p>
-<p></p>
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MykhailoKlymchuk&show_icons=true&theme=tokyonight" />
 </a>
