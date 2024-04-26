@@ -3,6 +3,7 @@
 I'm Mykhailo Klymchuk, a full-stack developer.
 <br>Passionate about development since last summer.
 <br>I started an exciting learning journey with Epam Java summer courses and continue to improve my skills with udemy and coursera courses.
+[![MykhailoKlymchuk's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=MykhailoKlymchuk)](https://github.com/KnlnKS/leetcode-stats)
 
 If you are interested in me, please review my [resume](https://docs.google.com/document/d/1_SBcUe-iSSIW8XBGp6uIVg8Uont_pa_w/) 
 <br>
@@ -25,4 +26,3 @@ If you are interested in me, please review my [resume](https://docs.google.com/d
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MykhailoKlymchuk&layout=compact&langs_count=8&card_width=299&theme=tokyonight" />
 </a>
 </p>
-[![MykhailoKlymchuk's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=MykhailoKlymchuk)](https://github.com/KnlnKS/leetcode-stats)
