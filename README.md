@@ -24,4 +24,4 @@ If you are interested in me, please review my [resume](https://docs.google.com/d
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MykhailoKlymchuk&layout=compact&langs_count=8&card_width=299&theme=tokyonight" />
 </a>
-![Leetcode Stats](https://leetcard.MykhailoKlymchuk/lapor?ext=heatmap)
+[![Mykhailo Klymchuk's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=MykhailoKlymchuk&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
