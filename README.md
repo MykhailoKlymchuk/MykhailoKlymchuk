@@ -25,4 +25,4 @@ If you are interested in me, please review my [resume](https://docs.google.com/d
 
 <br>
 
-[![MykhailoKlymchuk's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dark&theme=tokyonight)](https://github.com/KnlnKS/leetcode-stats)
+[![MykhailoKlymchuk's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dark&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
