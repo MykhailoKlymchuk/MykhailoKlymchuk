@@ -22,4 +22,5 @@ If you are interested in me, please review my [resume](https://docs.google.com/d
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MykhailoKlymchuk&layout=compact&langs_count=8&card_width=299&theme=tokyonight" />
 </a>
 </p>
+<br>
 [![MykhailoKlymchuk's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dark&theme=tokyonight)](https://github.com/KnlnKS/leetcode-stats)
