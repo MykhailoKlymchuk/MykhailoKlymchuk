@@ -16,7 +16,7 @@ If you're interested, please review my [resume](https://docs.google.com/document
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,php,spring,django,laravel,hibernate,maven,gradle,angular,react,js,ts,html,css,bootstrap,postgres,mysql,mongodb,redis,git,github,gitlab,postman,docker,kubernetes,kafka,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,spring,django,laravel,hibernate,angular,react,js,ts,html,css,bootstrap,postgres,mysql,mongodb,redis,maven,gradle,git,github,gitlab,postman,docker,kubernetes,kafka,aws,gcp" />
   </a>
 </p>
 <p>
