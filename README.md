@@ -2,6 +2,7 @@
 
 * Passionate about development since last summer.
 * Started my learning journey with Epam Java summer courses and continue to improve my skills with Udemy and Coursera courses.
+* Student of Computer Science, Lviv Polytechnic National University 
 * Highly self-motivated with a strong desire for personal and career growth.
 * Enthusiastic about learning from seasoned professionals and gaining valuable commercial experience.
   
